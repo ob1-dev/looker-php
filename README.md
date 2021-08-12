@@ -77,12 +77,12 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
 {
   "repositories": [
     {
-      "type": "vcs",
-      "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
+      "type": "git",
+      "url": "https://github.com/ob1-dev/looker-php.git"
     }
   ],
   "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
+    "ob1-dev/looker-php": "*@dev"
   }
 }
 ```
